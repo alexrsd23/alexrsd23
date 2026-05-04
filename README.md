@@ -1,70 +1,46 @@
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Alex%20Rosendo&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%"/>
+# Alex Rosendo
+**Software Engineer & Systems Architect**
 
-<h2 align="center">🚀 Software Engineer | Java & Angular Specialist</h2>
-
-<p align="center">
-  <i>Turning ideas into intelligent and scalable solutions</i>
-</p>
+> Designing resilient software architectures with an engineering-first approach.
 
 ---
 
-## 📌 About Me
+## ◾ Profile Overview
 
-- 💻 **Software Engineer** focused on **Java (Spring)** and **Angular**.
-- 🔍 Passionate about investigating complex problems and building creative solutions.
-- 🌱 Always learning about **software architecture**, **data structures**, and **design patterns**.
-- 🛠 Real-world projects: **ToDo App (Full Stack)** and internal ERP systems.
+With a dual foundation in civil and software engineering, I approach codebase architecture with a focus on structural integrity, scalability, and robust design patterns. My technical expertise centers on the Java ecosystem and modern TypeScript frameworks, specializing in building distributed systems, complex state-driven applications, and rigorous data models.
+
+## ◾ Technical Domains
+
+*   **System Architecture:** Microservices, MVC pattern, Object-Oriented Design (SOLID), API Gateway routing.
+*   **Backend Engineering:** Java, Spring Boot, JPA/Hibernate, RESTful APIs.
+*   **Frontend Engineering:** Angular, TypeScript, Reactive Programming (RxJS), State Management.
+*   **Data & Infrastructure:** Relational Databases (MySQL), NoSQL (MongoDB), Version Control (Git).
+
+## ◾ Selected Engineering Projects
+
+**[1] Distributed E-Commerce Architecture**
+Engineered a scalable full-stack e-commerce system utilizing a microservices architecture to ensure high availability and separation of concerns. 
+*   *Stack:* Java Spring Boot, Angular, MySQL.
+
+**[2] Multi-Agent Socio-Economic Simulator**
+Developed a complex, data-driven simulation modeling dynamic social and economic behaviors. The system features independent agents with distinct professional roles, survival logic, and market interactions.
+*   *Stack:* Python, React, Advanced State Management.
+
+**[3] Enterprise Task Management API**
+A robust, full-stack application demonstrating clean code principles, secure API integration, and optimized database queries.
+*   *Stack:* Java Spring Boot, Angular.
 
 ---
 
-## 🖥 Tech Stack
+## ◾ Analytics & Activity
 
 <div align="center">
-
-| Category | Technologies |
-|-----------|-------------|
-| **Back-End** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |
-| **Front-End** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexrsd23&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=333333" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrsd23&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=333333" />
 </div>
 
 ---
 
-## 📊 Stats
+## ◾ Contact
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexrsd23&show_icons=true&theme=react&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexrsd23&layout=compact&theme=react&hide_border=true" />
-</div>
-
----
-
-## 📈 Contributions & Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexrsd23&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-- **[ToDo_App_Backend](https://github.com/alexrsd23)** → Java API with Spring Boot and MySQL.
-- **[ToDo_App_Frontend](https://github.com/alexrsd23)** → Modern Angular frontend integrated with Java API.
-
----
-
-## 📬 Contact
-
-<div align="center">
-  <a href="https://github.com/alexrsd23"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:axrdgft23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
----
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" width="100%"/>
+**GitHub:** [@alexrsd23](https://github.com/alexrsd23) | **Email:** [axrdgft23@gmail.com](mailto:axrdgft23@gmail.com)
