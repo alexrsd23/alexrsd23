@@ -31,4 +31,4 @@ Software Engineer bringing a highly analytical and structural approach to comple
 
 ## ⊚ Connect
 
-[LinkedIn](#) • [GitHub](https://github.com/alexrsd23) • [axrdgft23@gmail.com](mailto:axrdgft23@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alex-rosendo/) • [GitHub](https://github.com/alexrsd23)
